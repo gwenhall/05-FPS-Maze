@@ -6,9 +6,13 @@ Exciting and dizziness inducing maze whose brick interior was inspired by an int
 
 ## Implementation
 Built using Godot 3.2.3
+
 Register (Key) and Squeaky Toy (Enemy) sound effects from freesound.org
+
 Brick/Wall texture from hippopx.com
+
 Key model from kenney.nl
+
 Enemy model by Gwen Hall
 
 ## References
